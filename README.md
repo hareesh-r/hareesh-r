@@ -1,5 +1,6 @@
 ### Hi there 👋 It's me Hareesh
 
+[![HitCount](http://hits.dwyl.com/hareesh-r/hareesh-r.svg)](http://hits.dwyl.com/hareesh-r/hareesh-r)
 
 - 🔭 I’m currently working on [ComeBack](http://comeback-alums.ml)
 - 🌱 I’m currently learning DSA
