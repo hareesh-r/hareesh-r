@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
-- 📫 How to reach me: [Twitter <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> ](https://twitter.com/hareesh_dev) [LinkedIn](https://www.linkedin.com/in/hareesh-rajendran-277b13112/)
+- 📫 How to reach me: [Twitter <imgsrc="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> ](https://twitter.com/hareesh_dev) [LinkedIn](https://www.linkedin.com/in/hareesh-rajendran-277b13112/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
