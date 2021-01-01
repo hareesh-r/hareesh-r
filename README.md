@@ -11,3 +11,4 @@
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
+[![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r)](https://github.com/hareesh-r/github-readme-stats)
