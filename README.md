@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
-- 📫 How to reach me: [Find my contact here](http://comeback-alums-thankyou.ml)
+- 📫 How to reach me: [Twitter](https://twitter.com/hareesh_dev) [LinkedIn](https://www.linkedin.com/in/hareesh-rajendran-277b13112/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
