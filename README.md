@@ -13,6 +13,5 @@
 
 [![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs)](https://github.com/hareesh-r/github-readme-stats)
 
-### Contact Me
-<img height="32" width="32" src="https://simpleicons.org/icons/facebook.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON NAME].svg" />
+### Programming Knowledge
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/c.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/cplusplus.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/java.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/bootstrap.svg" />
