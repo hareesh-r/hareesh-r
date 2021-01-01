@@ -12,3 +12,7 @@
 - ⚡ Fun fact: I know Japanese.
 
 [![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs)](https://github.com/hareesh-r/github-readme-stats)
+
+### Contact Me
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON NAME].svg" />
