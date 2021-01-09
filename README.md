@@ -13,9 +13,7 @@
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
   </div>
-  <div class="col">
     ![](https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif)
-  </div>
 </div>
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
