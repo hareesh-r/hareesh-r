@@ -1,7 +1,7 @@
 ### Hi there 👋 It's me Hareesh
 
 [![HitCount](http://hits.dwyl.com/hareesh-r/hareesh-r.svg)](http://hits.dwyl.com/hareesh-r/hareesh-r)
-
+<img align="right" width="250" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently working on [ComeBack](http://comeback-alums.ml)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
