@@ -1,5 +1,6 @@
 ### Hi there 👋 It's me Hareesh
 
+[![HitCount](http://hits.dwyl.com/hareesh-r/hareesh-r.svg)]
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 I’m currently working on [cryptoking](https://github.com/hareesh-r)                                                 
 - 🌱 I’m currently learning DSA
