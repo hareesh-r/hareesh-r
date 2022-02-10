@@ -25,4 +25,4 @@ Computer Science Engineering Student
 [![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs&theme=dark)](https://github.com/hareesh-r/github-readme-stats)
 
 
-[![Hareesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hareesh-r)](https://github.com/hareesh-r/github-readme-activity-graph)
+[![Hareesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hareesh-r&theme=react-dark)](https://github.com/hareesh-r/github-readme-activity-graph)
