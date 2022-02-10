@@ -23,7 +23,7 @@ Computer Science Engineering Student
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 [![Hareesh's github stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&hide=issues,contribs&theme=dark)](https://github.com/hareesh-r/github-readme-stats)
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=hareeshprogrammer&theme=auto&width=300)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=hareeshprogrammer&theme=auto&width=350)](https://leetcode.com/hareeshprogrammer)
 
 
 [![Hareesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hareesh-r&theme=react-dark)](https://github.com/hareesh-r/github-readme-activity-graph)
